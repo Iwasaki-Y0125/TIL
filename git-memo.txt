@@ -1,0 +1,6 @@
+# よく使うGitコマンド
+
+git status          # 変更状況を確認
+git add .           # すべてステージに追加
+git commit -m "コメント"   # コメント付きで保存
+git push            # GitHubへアップロード
