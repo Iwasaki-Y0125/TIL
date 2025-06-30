@@ -1,6 +1,8 @@
 # よく使うGitコマンド
 
-git status          # 変更状況を確認
-git add .           # すべてステージに追加
-git commit -m "コメント"   # コメント付きで保存
-git push            # GitHubへアップロード
+git pull           		# まず最新を取得
+git status         		# 何を変更したか確認
+git add .         		 # 全部ステージに追加
+git commit -m "〇〇を修正"	#修正部分のコメント
+git push          		 # GitHubにアップ
+
