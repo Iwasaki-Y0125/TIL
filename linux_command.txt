@@ -1,0 +1,62 @@
+エイリアス
+pdealias dr='docker compose run --rm app bash'
+alias drob='docker compose run --rm --remove-orphans app bash'
+alias cdrw='cd ~/ruby_workspace'
+alias cdw='cd ~/workspace'
+alias nb='nano ~/.bashrc'
+alias sb='source ~/.bashrc'
+
+
+現在のディレクトリを表示　pwd
+ディレクトリへ移動　cd
+ディレクトリを作成　mkdir フォルダ名
+ディレクトリを削除　rmdir フォルダ名（空でないとエラーになる）
+
+ファイルを作成　touch file.txt
+ファイルを削除　rm file.txt
+
+ファイルをコピーする　cp コピー元　コピー先
+ファイルの移動　mv 移動元　移動先
+リンクを作成する　ln ターゲット　リンク先
+
+ファイルの中身を表示　cat ファイル名
+ファイルのプロファイルを表示　file ファイル名
+ファイルの結合　cat ファイル　ファイル
+
+文字を出力する　echo 文字列
+リダイレクト（出力先の指定）　>
+ファイルに文字列を入力　echo 文字列 > ファイル名
+複数行入力(置換）　cat  > ファイル名　Ctrl＋Dで離脱
+複数行入力(追加）　cat  > ファイル名　Ctrl＋Dで離脱
+
+ディレクトリの一覧を表示　ls
+ディレクトリの場合は/をつける　ls -xp
+ファイルの詳細を一覧で表示　ls -lp
+隠しファイルも表示　ls -a
+　自分　　グループ　　ほかの人
+d  rwx　　 r--  　　　　r--
+r：読み出し
+w：書き出し
+x：実行
+
+テキストエディタで編集　nano ファイル名
+バックアップ作成して編集　nano -B  ファイル名
+範囲選択開始	Alt + A（mark set）
+選択コピー	Alt + 6
+カット（切取）	Ctrl + K（範囲選択時）
+ペースト	Ctrl + U
+全選択	✕ できない（手動で選択）
+保存　Ctrl + O
+終了　Ctrl ＋X
+
+ファイルから特定の文字を含む行を出力　grep 文字　ファイル名
+行数を表示　-n
+含まない行を表示　-v
+
+先頭〇行を表示　head -20 ファイル名
+末尾〇行を表示　tail -20 ファイル名
+ページ区切りで表示 more/less ファイル名
+　ページから元に戻る　ｑ
+
+文字列の置き換え　set 's/置き換え対象/置き換える文字列/オプション'
+-g　すべて置き換え
