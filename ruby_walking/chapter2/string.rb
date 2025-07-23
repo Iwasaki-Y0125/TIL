@@ -9,3 +9,6 @@ puts "ダブルクォート：Hello,#{name}"
 puts 1 + 1
 puts '1' + '1'
 puts '1'.to_i + '1'.to_i
+
+puts 2 ** 8
+
