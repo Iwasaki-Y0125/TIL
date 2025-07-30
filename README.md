@@ -1,4 +1,4 @@
-# TIL -Today I Learned
+# TIL
 Today I Learned（今日学んだこと）の備忘録です
 
  [RUNTEQ/](https://github.com/Iwasaki-Y0125/til/tree/main/RUNTEQ)
@@ -11,7 +11,7 @@ RUNTEQのカリキュラムで使用したコード
 カリキュラム外のテストコードの保管庫
 
 
-[Books/](https://github.com/Iwasaki-Y0125/til/tree/main/Books)
+[Books/](https://github.com/users/Iwasaki-Y0125/projects/1)
 ---
 読書記録
 
