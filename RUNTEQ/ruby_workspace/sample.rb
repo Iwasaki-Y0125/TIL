@@ -177,3 +177,4 @@ end
                {name: "orange", price: 300}
            ]
    cashier(items)
+
