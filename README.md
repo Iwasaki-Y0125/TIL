@@ -1,18 +1,14 @@
 ## TIL Today I Learned
 TIL Today I Learned（今日学んだこと）の備忘録です
 
-### RUNTEQ/
----
+<sub>RUNTEQ/</sub> 
 RUNTEQのカリキュラムで使用したコード
 　
-#### Practice/
----
+<sub>Practice/</sub>
 カリキュラム外のテストコードの保管庫
 　
-#### Books/
----
+<sub>Books/</sub>
 読書記録
 　
-#### TIPS/
----
+<sub>TIPS/</sub>
 実践的なヒントをまとめる
