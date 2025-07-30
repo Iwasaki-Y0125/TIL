@@ -1,14 +1,21 @@
-## TIL Today I Learned
+# TIL Today I Learned
 TIL Today I Learned（今日学んだこと）の備忘録です
 
-<sub>RUNTEQ/</sub> 
+ [RUNTEQ/](https://github.com/Iwasaki-Y0125/til/tree/main/RUNTEQ)
+ ---
 RUNTEQのカリキュラムで使用したコード
-　
-<sub>Practice/</sub>
+
+ 
+[Practice/](https://github.com/Iwasaki-Y0125/til/tree/main/Practice)
+---
 カリキュラム外のテストコードの保管庫
-　
-<sub>Books/</sub>
+
+ 
+[Books/](https://github.com/Iwasaki-Y0125/til/tree/main/Books)
+---
 読書記録
-　
-<sub>TIPS/</sub>
+
+ 
+[TIPS/](https://github.com/Iwasaki-Y0125/til/tree/main/TIPS)
+---
 実践的なヒントをまとめる
